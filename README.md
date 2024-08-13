@@ -2,7 +2,7 @@
 
 ### Training and Testing Datasets
 Downloading training datasets  
-Downloading testing datasets
+[Downloading testing datasets] (https://pan.baidu.com/share/init?surl=RYWrbykZ3Ifjv75q9-qYUg)
 
 ### Pre-trained model
 Downloading Swin V2 weights and move it into ./pre/swinv2_base_patch4_window16_256.pth.
