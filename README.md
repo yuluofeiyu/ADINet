@@ -54,4 +54,5 @@ When training is complete, the predictions for the test set are saved in . /test
 
 ## 6. Acknowledgement
 Thanks to [RFNet](https://github.com/Zongwei97/RFnet) for their excellent work.
-## Note: Our core code is being organized and will be uploaded later!
+## Note
+Our core code is being organized and will be uploaded later!
