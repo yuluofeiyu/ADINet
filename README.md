@@ -40,16 +40,16 @@ downloading Swin V2 weights ([Swin V2](https://pan.baidu.com/s/1_zZIHiBFOHXZ-F-c
 
 ## Training
 `python train_ADINet.py`
-├── backbone 
-├── CDINet.pth
-├── CDINet_test.py
-├── CDINet_train.py
-├── dataset
-│   ├── CDINet_test_data
-│   └── CDINet_train_data
-├── model
-├── modules
-└── setting
+├── backbone \
+├── CDINet.pth\
+├── CDINet_test.py\
+├── CDINet_train.py\
+├── dataset\
+│   ├── CDINet_test_data\
+│   └── CDINet_train_data\
+├── model\
+├── modules\
+└── setting\
 ## Testing
 `python test_ADINet.py`
 
