@@ -8,7 +8,7 @@ downloading testing datasets from [Baidu Drive](https://pan.baidu.com/s/1uERpDsb
 downloading Swin V2 weights ([Swin V2](https://pan.baidu.com/s/1_zZIHiBFOHXZ-F-cJohKTQ)(extraction code: 6hyq)) and move it into [./pretrain/swinv2_base_patch4_window16_256.pth].
 
 ### Training
-python train_ADINet.py
+`python train_ADINet.py`
 
 ### Testing
 python test_ADINet.py
