@@ -7,15 +7,26 @@ In recent years, most of the existing RGB-D SOD models use summation or splicing
 ### 1.2. Framework Overview
 ![image](ADINet/imgs/ADINet.png)
 <div align="center">
-Figure 1: Overall architecture of the proposed ADINet.
+Figure 1: Overall architecture of the proposed ADINet
 </div>
 
 ### 1.3. Quantitative Results
 ![alt](ADINet/imgs/Quantitative.png)
+<div align="center">
+Figure 2: Quantitative Results
+</div>
+
 ### 1.4. PR Curves
 ![alt](ADINet/imgs/pr.png)
+<div align="center">
+Figure 3: PR Curves
+</div>
+
 ### 1.5. Qualitative Results
 ![alt](ADINet/imgs/Qualitative.png)
+<div align="center">
+Figure 4: Qualitative Results
+</div>
 
 
 ## Preparing the necessary data
