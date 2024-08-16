@@ -13,7 +13,7 @@ train_ADINet.py
 ### Testing
 test_ADINet.py
 
-### Training and # Testing
+### Training and Testing
 python run_ADINet.py
 
 ### Results
