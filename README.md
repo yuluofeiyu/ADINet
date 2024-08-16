@@ -38,14 +38,12 @@ python 3.8,   pytorch 1.10.0
 - Downloading testing datasets from [Baidu Drive](https://pan.baidu.com/s/1uERpDsb9GIvCACOoCXeJSg)(extraction code: 211k).\
 * Downloading Swin V2 weights ([Swin V2](https://pan.baidu.com/s/1_zZIHiBFOHXZ-F-cJohKTQ)(extraction code: 6hyq)) and move it into [./pretrain/swinv2_base_patch4_window16_256.pth].
 
-## Training
-`python train_ADINet.py`
-
-## Testing
-`python test_ADINet.py`
-
 ## Training and Testing
-`python run_ADINet.py`
+### 3.1. Training
+`python train_ADINet.py`
+### 3.2. Testing
+`python test_ADINet.py`\
+For training and testing purposes, the following operations can be performed: `python run_ADINet.py`
 
 ## Results
 We provide saliency maps of ADINet on seven benchmark datasets, including: DUT-RGBD, NJU2K, NLPR, SIP, SSD, LFSD and RedWeb-S from [Baidu Drive](https://pan.baidu.com/s/1c9bv4PbEm_IghfCjF_Y-pw)(extraction code: ADIN).
