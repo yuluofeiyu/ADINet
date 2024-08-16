@@ -8,11 +8,11 @@ In recent years, most of the existing RGB-D SOD models use summation or splicing
 ![image](ADINet/imgs/ADINet.png)
 
 ### 1.3. Quantitative Results
-![alt](https://github.com/yuluofeiyu/ADINet/tree/main/ADINet/imgs/Quantitative.png)
+![alt](ADINet/imgs/Quantitative.png)
 ### 1.4. PR Curves
-
+![alt](ADINet/imgs/pr.png)
 ### 1.5. Qualitative Results
-
+![alt](ADINet/imgs/Qualitative.png)
 
 
 ## Preparing the necessary data
