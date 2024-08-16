@@ -32,7 +32,7 @@ Figure 4: Qualitative Results
 ## 2. Data Preprocessing
 The training and testing experiments were conducted using PyTorch with a single Tesla T4 GPU 16GB.\
 ### 2.1. Requirements
-python 3.8   pytorch 1.10.0
+python 3.8,   pytorch 1.10.0
 ### 2.2. Prepared Datasets
 * Download the training dataset and move the train files from it into ./train, and the val files into ./val, which can be found from [Baidu Drive](https://pan.baidu.com/s/1wfOG3EqyLaM0UH6pwfvpdA)(extraction code: o3o4).\
 - Downloading testing datasets from [Baidu Drive](https://pan.baidu.com/s/1uERpDsb9GIvCACOoCXeJSg)(extraction code: 211k).\
