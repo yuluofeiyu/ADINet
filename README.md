@@ -29,13 +29,14 @@ Figure 4: Qualitative Results
 </div>
 
 
-## 2. Preparing the necessary data
-### The training and testing experiments were conducted using PyTorch with a single Tesla T4 GPU 16GB.\
+## 2. Data Preprocessing
+The training and testing experiments were conducted using PyTorch with a single Tesla T4 GPU 16GB.\
 ### 2.1. Requirements\
 python 3.9   pytorch 1.11.0
-### 2.2. downloading training datasets from [Baidu Drive](https://pan.baidu.com/s/1wfOG3EqyLaM0UH6pwfvpdA)(extraction code: o3o4).\
-### 2.3. downloading testing datasets from [Baidu Drive](https://pan.baidu.com/s/1uERpDsb9GIvCACOoCXeJSg)(extraction code: 211k).\
-### 2.4. downloading Swin V2 weights ([Swin V2](https://pan.baidu.com/s/1_zZIHiBFOHXZ-F-cJohKTQ)(extraction code: 6hyq)) and move it into [./pretrain/swinv2_base_patch4_window16_256.pth].
+### 2.2. Prepared Datasets\
+downloading training datasets from [Baidu Drive](https://pan.baidu.com/s/1wfOG3EqyLaM0UH6pwfvpdA)(extraction code: o3o4).\
+downloading testing datasets from [Baidu Drive](https://pan.baidu.com/s/1uERpDsb9GIvCACOoCXeJSg)(extraction code: 211k).\
+downloading Swin V2 weights ([Swin V2](https://pan.baidu.com/s/1_zZIHiBFOHXZ-F-cJohKTQ)(extraction code: 6hyq)) and move it into [./pretrain/swinv2_base_patch4_window16_256.pth].
 
 ## Training
 `python train_ADINet.py`
