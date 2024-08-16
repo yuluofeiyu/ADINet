@@ -2,8 +2,8 @@
 
 
 ### Training and Testing Datasets
-[Downloading training datasets]  
-[Downloading testing datasets]
+Downloading training datasets from [Baidu Drive](https://pan.baidu.com/s/13MLjRuF5JpRGxJwm8qU0xQ)(extraction code: 5lg3).
+Downloading testing datasets from [Baidu Drive](https://pan.baidu.com/s/1uERpDsb9GIvCACOoCXeJSg)(extraction code: 211k).
 
 ### Pre-trained model
 Downloading Swin V2 weights and move it into [./pre/swinv2_base_patch4_window16_256.pth].
