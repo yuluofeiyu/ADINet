@@ -2,6 +2,10 @@
 
 ## 1. Overview
 ### 1.1. Introduction
+In recent years, most of the existing RGB-D SOD models use summation or splicing strategies to directly aggregate information from different modalities and decode features from different layers to predict saliency maps. However, they ignore the complementary properties of depth images and RGB images and the effective use of features between the same layers, resulting in a degraded model performance. To address this issue, we propose an asymmetric deep interaction network (ADINet) with three indispensable components with a focus on information fusion \& embedding. Specifically, we design a cross-modal fusion encoder  for enhancing the information fusion \& embedding on semantic signals that is employed to benefit from the mutual interaction of RGB and depth information. Then, we propose a global-and-local feature decoder to enrich the global \& local information for improving the recognition of salient objects. We have conducted the experiments on seven RGB-D benchmarks, and the results demonstrate that the proposed method is superior to or competitive with the state-of-the-art works.
+
+
+
 ## Preparing the necessary data
 downloading training datasets from [Baidu Drive](https://pan.baidu.com/s/1wfOG3EqyLaM0UH6pwfvpdA)(extraction code: o3o4).\
 downloading testing datasets from [Baidu Drive](https://pan.baidu.com/s/1uERpDsb9GIvCACOoCXeJSg)(extraction code: 211k).\
