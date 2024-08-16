@@ -18,8 +18,7 @@ test_ADINet.py
 python run_ADINet.py
 
 ### Results
-We provide saliency maps of ADINet on seven benchmark datasets, including: [DUT-RGBD, NJU2K, NLPR, SIP, SSD, LFSD and RedWeb-S] (链接：https://pan.baidu.com/s/1mwr1OiKiW7vkCxsrgi5MiA 
-提取码：ADIN)
+We provide saliency maps of ADINet on seven benchmark datasets, including: DUT-RGBD, NJU2K, NLPR, SIP, SSD, LFSD and RedWeb-S from [Baidu Drive](https://pan.baidu.com/s/1c9bv4PbEm_IghfCjF_Y-pw)(extraction code: ADIN).
 
 ####  Quantitative Results
 ####  Qualitative Results
