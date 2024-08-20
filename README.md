@@ -46,7 +46,7 @@ python 3.8,   pytorch 1.10.0
 For training and testing purposes, the following operations can be performed: `python run_ADINet.py`
 
 ## 4. Results
-We provide saliency maps of ADINet on seven benchmark datasets, including: DUT-RGBD, NJU2K, NLPR, SIP, SSD, LFSD and RedWeb-S from [Baidu Drive](https://pan.baidu.com/s/1c9bv4PbEm_IghfCjF_Y-pw)(extraction code: ADIN).
+We provide saliency maps of ADINet on seven benchmark datasets, including: DUT-RGBD, NJU2K, NLPR, SIP, SSD, LFSD and RedWeb-S from [Baidu Drive](https://pan.baidu.com/s/12VpO5Z79MqM7wvJKup7Aqw)(extraction code: ADIN).
 
 ## 5. Evaluating Results
 When training is complete, the predictions for the test set are saved in . /test_maps. We provided [python versions](https://pan.baidu.com/s/1Y1bn4ITcWAOqp-43SNVJbg)(extraction code: dr6d) for evaluation.\
