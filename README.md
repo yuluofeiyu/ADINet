@@ -33,9 +33,7 @@ Figure 4: Qualitative Results
 The training and testing experiments were conducted using PyTorch with a single Tesla T4 GPU 16GB.
 ### 2.1. Requirements
 python 3.8,   pytorch 1.10.0
-### 2.2. Prepared Datasets
-* Download the training dataset and move the train files from it into ./train, and the val files into ./val, which can be found from [Baidu Drive](https://pan.baidu.com/s/1wfOG3EqyLaM0UH6pwfvpdA)(extraction code: o3o4).
-- Downloading testing datasets from [Baidu Drive](https://pan.baidu.com/s/1uERpDsb9GIvCACOoCXeJSg)(extraction code: 211k).
+### 2.2. Prepared weights
 * Downloading Swin V2 weights ([Swin V2](https://pan.baidu.com/s/1_zZIHiBFOHXZ-F-cJohKTQ)(extraction code: 6hyq)) and move it into [./pretrain/swinv2_base_patch4_window16_256.pth].
 
 ## 3. Training and Testing
